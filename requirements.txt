@@ -1,0 +1,4 @@
+datajoint==0.14
+jupyterlab
+faker
+graphviz
